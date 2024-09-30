@@ -1,4 +1,4 @@
-# App #3: AirBnB Experiences Clone
+# AirBnB Experiences Clone
 
 ## Reference(s):
 
